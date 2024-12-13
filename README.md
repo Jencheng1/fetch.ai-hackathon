@@ -1,10 +1,10 @@
-# Medius.ai - AI-Driven Healthcare Coordination Platform
+# Medius.ai - AI-Driven Healthcare Emergency Coordination Platform
 
 <img width="494" alt="agents" src="https://github.com/user-attachments/assets/2480ca46-0a5b-47ad-85bf-62debfdd2c6a" />
 
 **Inspiration**
 
-Healthcare, law enforcement, social services, and first responders often face critical inefficiencies in communication due to patient privacy regulations and siloed information systems. These challenges can lead to delayed or suboptimal decisions, risking patient outcomes and organizational performance. We were inspired to create Medius AI—a SaaS platform—to bridge these gaps and streamline collaboration across sectors.
+Healthcare, law enforcement, social services, and first responders often face critical inefficiencies in communication due to patient privacy regulations and siloed information systems. These challenges can lead to delayed or suboptimal decisions, risking patient outcomes and organizational performance. We were inspired to create Medius AI—a SaaS platform—to bridge these gaps and streamline collaboration across sectors. _Medius.ai says goodbye to communication bottlenecks and hello to seamless, privacy-first collaboration with its multi-agent platform for healthcare and emergency response._
 
 **What it does**
 
