@@ -1,4 +1,4 @@
-# Medius.ai - A Secure Collaborative Communication App for Healthcare
+# Medius.ai - AI-Driven Healthcare Coordination Platform
 
 
 **Inspiration**
