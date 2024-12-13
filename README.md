@@ -58,7 +58,10 @@ Python, LangChain, Pinecone, FAISS, Streamlit, and Fetch.ai's multi-agent archit
 
 <img width="601" alt="bottalking" src="https://github.com/user-attachments/assets/32c63116-36be-4133-a33a-0ab07f8b2e17" />
 
+**Streamlit App**
+
 <img width="970" alt="streamlit" src="https://github.com/user-attachments/assets/434a8abb-350c-4ca9-a956-c14248d774d4" />
 
+**Medius.ai Brand**
 
 ![mediusai-name](https://github.com/user-attachments/assets/f99fdf2a-4b8b-485d-bea6-f7be20cd4dc3)
