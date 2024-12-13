@@ -2,7 +2,6 @@
 
 ![mediusai-name](https://github.com/user-attachments/assets/f99fdf2a-4b8b-485d-bea6-f7be20cd4dc3)
 
-<img width="494" alt="agents" src="https://github.com/user-attachments/assets/2480ca46-0a5b-47ad-85bf-62debfdd2c6a" />
 
 **Inspiration**
 
@@ -15,6 +14,8 @@ Medius.ai is a SaaS platform that enables seamless, privacy-compliant communicat
 **How we built it**
 
 <img width="489" alt="agentsflow" src="https://github.com/user-attachments/assets/31956c69-b298-4cea-907c-2896e48accda" />
+
+<img width="494" alt="agents" src="https://github.com/user-attachments/assets/2480ca46-0a5b-47ad-85bf-62debfdd2c6a" />
 
 _Backend:_ Fetch.ai's UAgents framework to create autonomous agents tailored to roles like Patient, Hospital, Blood Bank, and Coordinator.
 
