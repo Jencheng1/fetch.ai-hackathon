@@ -21,11 +21,6 @@ _Frontend:_ Built with Streamlit for user-friendly interactions.
 
 _AI Integration:_ The Fetch.ai documentation guides the design and connection of agents, LangChain powers knowledge retrieval, and the RAG-enhanced chatbot synthesizes data into actionable insights.
 
-**Scenario**
-
-![examplescenario](https://github.com/user-attachments/assets/49f6cc8a-72ef-42d6-973e-13daa15912d9)
-
-
 **Challenges we ran into**
 
 - Ensuring compliance with complex healthcare privacy laws while maintaining operational efficiency.
@@ -54,14 +49,17 @@ _AI Integration:_ The Fetch.ai documentation guides the design and connection of
 
 Python, LangChain, Pinecone, FAISS, Streamlit, and Fetch.ai's multi-agent architecture.
 
+
 **Output**
+
 
 <img width="601" alt="bottalking" src="https://github.com/user-attachments/assets/32c63116-36be-4133-a33a-0ab07f8b2e17" />
 
+
+
 **Streamlit App**
+
 
 <img width="970" alt="streamlit" src="https://github.com/user-attachments/assets/434a8abb-350c-4ca9-a956-c14248d774d4" />
 
-**Medius.ai Brand**
 
-![mediusai-name](https://github.com/user-attachments/assets/f99fdf2a-4b8b-485d-bea6-f7be20cd4dc3)
