@@ -1,5 +1,7 @@
 # Medius.ai - AI-Driven Healthcare Emergency Coordination Platform
 
+![mediusai-name](https://github.com/user-attachments/assets/f99fdf2a-4b8b-485d-bea6-f7be20cd4dc3)
+
 <img width="494" alt="agents" src="https://github.com/user-attachments/assets/2480ca46-0a5b-47ad-85bf-62debfdd2c6a" />
 
 **Inspiration**
@@ -24,6 +26,8 @@ _AI Integration:_ The Fetch.ai documentation guides the design and connection of
 ![examplescenario](https://github.com/user-attachments/assets/49f6cc8a-72ef-42d6-973e-13daa15912d9)
 
 <img width="228" alt="Screen Shot 2024-12-13 at 1 59 20 PM" src="https://github.com/user-attachments/assets/1486be2b-60da-4ce3-a4b4-24e75fa01bd7" />
+
+![healthcarewastestats](https://github.com/user-attachments/assets/2e4d1ebd-72fb-464f-b438-8de04607b217)
 
 **Challenges we ran into**
 
