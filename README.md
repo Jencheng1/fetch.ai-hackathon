@@ -61,10 +61,15 @@ Python, LangChain, Pinecone, FAISS, Streamlit, and Fetch.ai's multi-agent archit
 <img width="970" alt="streamlit" src="https://github.com/user-attachments/assets/434a8abb-350c-4ca9-a956-c14248d774d4" />
 
 **Fetch.ai Documentation**
+
 https://fetch.ai/
+
 https://fetch.ai/docs/guides/agents/quickstart
+
 https://fetch.ai/docs/guides/agents/intermediate/langchain-rag-agent
+
 https://fetch.ai/docs/guides/agents/intermediate/communicating-with-other-agents
+
 
 
 
