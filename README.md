@@ -2,6 +2,7 @@
 
 
 **Inspiration**
+
 _Our project started with a disconnection_
 Healthcare, law enforcement, social services, and first responders often face critical inefficiencies in communication due to patient privacy regulations and siloed information systems. These challenges can lead to delayed or suboptimal decisions, risking patient outcomes and organizational performance. We were inspired to create Medius AI—a SaaS platform—to bridge these gaps and streamline collaboration across sectors.
 
