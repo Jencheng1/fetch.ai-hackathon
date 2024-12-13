@@ -13,10 +13,13 @@ Medius AI is a SaaS solution that securely facilitates collaborative communicati
 
 <img width="489" alt="agentsflow" src="https://github.com/user-attachments/assets/31956c69-b298-4cea-907c-2896e48accda" />
 
-Backend: Multi-agent architecture, including a Patient agent, Hospital agent, Blood Bank agent, and Coordinator agent.
-Frontend: Built with Streamlit to provide a user-friendly interface for diverse roles, such as paramedics, social workers, and psychiatrists.
-AI Integration: LangChain powers knowledge retrieval, Pinecone manages vector embeddings, and the RAG-enhanced chatbot synthesizes data into actionable insights.
-Privacy: Robust role-based access controls and anonymized patient identifiers ensure compliance and security.
+_Backend:_ Multi-agent architecture, including a Patient agent, Hospital agent, Blood Bank agent, and Coordinator agent.
+
+_Frontend:_ Built with Streamlit to provide a user-friendly interface for diverse roles, such as paramedics, social workers, and psychiatrists.
+
+_AI Integration:_ LangChain powers knowledge retrieval, Pinecone manages vector embeddings, and the RAG-enhanced chatbot synthesizes data into actionable insights.
+
+_Privacy:_ Robust role-based access controls and anonymized patient identifiers ensure compliance and security.
 
 **Scenario**
 
