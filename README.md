@@ -8,7 +8,7 @@ Healthcare, law enforcement, social services, and first responders often face cr
 
 **What it does**
 
-Medius AI is a SaaS platform that enables seamless, privacy-compliant communication through a multi-agent system powered by Fetch.ai’s UAgents framework. It includes a Patient, a Hospital, a Blood Bank, and a Coordinator agent to manage role-based access and synchronize data sharing across stakeholders. The platform also uses AI and a RAG chatbot to provide predictive insights and synthesized treatment recommendations.
+Medius.ai is a SaaS platform that enables seamless, privacy-compliant communication through a multi-agent system powered by Fetch.ai’s UAgents framework. It includes a Patient, a Hospital, a Blood Bank, and a Coordinator agent to manage role-based access and synchronize data sharing across stakeholders. The platform uses AI and a RAG chatbot to provide predictive insights and synthesized treatment recommendations.
 
 **How we built it**
 
@@ -50,4 +50,4 @@ _AI Integration:_ The Fetch.ai documentation guides the design and connection of
 
 **Built with**
 
-LangChain, Pinecone, FAISS, Streamlit, and Fetch.ai's multi-agent architecture.
+Python, LangChain, Pinecone, FAISS, Streamlit, and Fetch.ai's multi-agent architecture.
