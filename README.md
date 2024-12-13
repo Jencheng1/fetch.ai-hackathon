@@ -18,9 +18,7 @@ _Backend:_ Fetch.ai's UAgents framework to create autonomous agents tailored to 
 
 _Frontend:_ Built with Streamlit for user-friendly interactions.
 
-_AI Integration:_ The Fetch.ai documentation guides the design and connection of agents, LangChain powers knowledge retrieval, Pinecone manages vector embeddings, and the RAG-enhanced chatbot synthesizes data into actionable insights.
-
-_Privacy:_ Robust role-based access controls and anonymized patient identifiers ensure compliance and security.
+_AI Integration:_ The Fetch.ai documentation guides the design and connection of agents, LangChain powers knowledge retrieval, and the RAG-enhanced chatbot synthesizes data into actionable insights.
 
 **Scenario**
 
@@ -28,27 +26,27 @@ _Privacy:_ Robust role-based access controls and anonymized patient identifiers 
 
 **Challenges we ran into**
 
-Ensuring compliance with complex healthcare privacy laws while maintaining operational efficiency.
-Designing a system that dynamically adapts to varying access needs across roles.
-Creating seamless integration between the multi-agent architecture and the RAG chatbot.
+- Ensuring compliance with complex healthcare privacy laws while maintaining operational efficiency.
+- Designing a system that dynamically adapts to varying access needs across roles.
+- Creating seamless integration between the multi-agent architecture and the RAG chatbot.
 
 **Accomplishments that we're proud of**
 
-Successfully built a secure, multi-agent system using Fetch.ai’s UAgents framework.
-Developed a RAG chatbot that enhances real-time, privacy-compliant data sharing.
-Created a scalable architecture adaptable to healthcare and beyond.
+- Successfully built a secure, multi-agent system using Fetch.ai’s UAgents framework.
+- Developed a RAG chatbot that enhances real-time, privacy-compliant data sharing.
+- Created a scalable architecture adaptable to healthcare and beyond.
 
 **What we learned**
 
-The adaptability of Fetch.ai UAgents for building secure, role-based systems.
-How to align cutting-edge AI tools with strict privacy and compliance needs.
-The value of user-centric design for SaaS platforms in high-stakes industries.
+- The adaptability of Fetch.ai UAgents for building secure, role-based systems.
+- How to align cutting-edge AI tools with strict privacy and compliance needs.
+- The value of user-centric design for SaaS platforms in high-stakes industries.
 
 **What's next for Medius.ai**
 
-Expand Fetch.ai integrations for decentralized, secure data sharing.
-Add predictive risk management and advanced analytics capabilities.
-Partner with organizations for real-world implementation and scaling.
+- Expand Fetch.ai integrations for decentralized, secure data sharing.
+- Add predictive risk management and advanced analytics capabilities.
+- Partner with organizations for real-world implementation and scaling.
 
 **Built with**
 
