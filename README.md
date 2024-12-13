@@ -1,5 +1,6 @@
 # Medius.ai - AI-Driven Healthcare Coordination Platform
 
+<img width="494" alt="agents" src="https://github.com/user-attachments/assets/2480ca46-0a5b-47ad-85bf-62debfdd2c6a" />
 
 **Inspiration**
 
