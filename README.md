@@ -21,6 +21,7 @@ _Frontend:_ Built with Streamlit for user-friendly interactions.
 _AI Integration:_ The Fetch.ai documentation guides the design and connection of agents, LangChain powers knowledge retrieval, and the RAG-enhanced chatbot synthesizes data into actionable insights.
 
 **Scenario**
+![examplescenario](https://github.com/user-attachments/assets/49f6cc8a-72ef-42d6-973e-13daa15912d9)
 
 <img width="228" alt="Screen Shot 2024-12-13 at 1 59 20 PM" src="https://github.com/user-attachments/assets/1486be2b-60da-4ce3-a4b4-24e75fa01bd7" />
 
