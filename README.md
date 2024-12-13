@@ -13,11 +13,11 @@ Medius AI is a SaaS platform that enables seamless, privacy-compliant communicat
 
 <img width="489" alt="agentsflow" src="https://github.com/user-attachments/assets/31956c69-b298-4cea-907c-2896e48accda" />
 
-_Backend:_ Multi-agent architecture, including a Patient agent, Hospital agent, Blood Bank agent, and Coordinator agent.
+_Backend:_ Fetch.ai's UAgents framework to create autonomous agents tailored to roles like Patient, Hospital, Blood Bank, and Coordinator.
 
-_Frontend:_ Built with Streamlit to provide a user-friendly interface for diverse roles, such as paramedics, social workers, and psychiatrists.
+_Frontend:_ Built with Streamlit for user-friendly interactions.
 
-_AI Integration:_ LangChain powers knowledge retrieval, Pinecone manages vector embeddings, and the RAG-enhanced chatbot synthesizes data into actionable insights.
+_AI Integration:_ The Fetch.ai documentation guides the design and connection of agents, LangChain powers knowledge retrieval, Pinecone manages vector embeddings, and the RAG-enhanced chatbot synthesizes data into actionable insights.
 
 _Privacy:_ Robust role-based access controls and anonymized patient identifiers ensure compliance and security.
 
@@ -33,22 +33,22 @@ Creating seamless integration between the multi-agent architecture and the RAG c
 
 **Accomplishments that we're proud of**
 
-Successfully developed a SaaS platform that balances privacy and collaboration.
-Enabled real-time, role-specific data retrieval and synthesis through AI.
-Designed a scalable architecture adaptable for multiple sectors beyond healthcare.
+Successfully built a secure, multi-agent system using Fetch.ai’s UAgents framework.
+Developed a RAG chatbot that enhances real-time, privacy-compliant data sharing.
+Created a scalable architecture adaptable to healthcare and beyond.
 
 **What we learned**
 
-The importance of precision and adaptability in privacy-compliant communication systems.
-How AI can streamline inter-professional collaboration while adhering to strict regulations.
-The value of a user-centered approach in designing SaaS platforms for high-stakes scenarios.
+The adaptability of Fetch.ai UAgents for building secure, role-based systems.
+How to align cutting-edge AI tools with strict privacy and compliance needs.
+The value of user-centric design for SaaS platforms in high-stakes industries.
 
 **What's next for Medius.ai**
 
-Enhancing predictive analytics for better risk management and decision-making.
-Integrating Fetch.ai tools for decentralized, secure data sharing.
-Expanding partnerships to pilot real-world applications in diverse industries, such as public safety and legal services.
+Expand Fetch.ai integrations for decentralized, secure data sharing.
+Add predictive risk management and advanced analytics capabilities.
+Partner with organizations for real-world implementation and scaling.
 
 **Built with**
 
-LangChain, Pinecone, FAISS, Streamlit, AWS infrastructure, and a multi-agent architecture to deliver a scalable, secure, and privacy-compliant SaaS solution for collaborative communication.
+LangChain, Pinecone, FAISS, Streamlit, and Fetch.ai's multi-agent architecture.
