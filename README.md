@@ -1,4 +1,4 @@
-# Medius.ai
+# Medius.ai - A Secure Collaborative Communication App for Healthcare
 
 
 **Inspiration**
