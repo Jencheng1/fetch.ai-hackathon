@@ -7,7 +7,7 @@ Healthcare, law enforcement, social services, and first responders often face cr
 
 **What it does**
 
-Medius AI is a SaaS solution that securely facilitates collaborative communication between professionals in healthcare, social services, first response, and law enforcement. It ensures privacy by anonymizing patient profiles and using role-based access controls. The platform integrates AI-driven features such as predictive analytics and a RAG chatbot to provide actionable treatment recommendations, access logs, and compliance with privacy regulations.
+Medius AI is a SaaS platform that enables seamless, privacy-compliant communication through a multi-agent system powered by Fetch.ai’s UAgents framework. It includes a Patient, a Hospital, a Blood Bank, and a Coordinator agent to manage role-based access and synchronize data sharing across stakeholders. The platform also uses AI and a RAG chatbot to provide predictive insights and synthesized treatment recommendations.
 
 **How we built it**
 
